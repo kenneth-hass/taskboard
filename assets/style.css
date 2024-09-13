@@ -1,0 +1,32 @@
+body {
+
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+}
+
+  
+  .cards:hover {
+
+    cursor: grab;
+  }
+  
+  .cards {
+
+    margin: auto;
+    width: 100%;
+  }
+
+  .swim-lanes {
+
+    min-height: 60vh;
+  }
+  
+  .red {
+
+    background-color: red;
+  }
+
+  .yellow {
+
+    background-color: yellow;
+  }
